@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWizard3000
 - 👀 I’m interested in computer science and everything that has to with computers
 - 🌱 I’m currently learning Python,MySQL,PHP,(phpMyAdmin) and how to play DND
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me via CodeWizard3000github@gmail.com
 
 <!---
